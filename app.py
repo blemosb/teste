@@ -25,7 +25,7 @@ def main():
         elif choice == '3':
             print("teste do git ***********.")
         elif choice == '4':
-            print("teste do git 5.")
+            print("teste do git 1.")
         elif choice == '5':
             break
         else:
