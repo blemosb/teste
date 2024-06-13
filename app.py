@@ -15,7 +15,7 @@ def main():
         print("1. Mostrar tarefas")
         print("2. Adicionar tarefa")
         print("3. Sair")
-        print("4. TESTE5454 *************")
+        print("4. TESTE5454 *******")
         choice = input("Escolha uma opção: ")
 
         if choice == '1':
